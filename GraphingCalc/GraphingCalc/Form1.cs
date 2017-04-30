@@ -228,7 +228,7 @@ namespace GraphingCalc
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            btnColor1.BackColor = palette[0];
+            btnColor1.BackColor = Color.Beige;
             btnColor2.BackColor = palette[1];
             btnColor3.BackColor = palette[2];
 
